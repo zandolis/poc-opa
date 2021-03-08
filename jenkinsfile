@@ -1,4 +1,4 @@
-// Jenkinsfile test OPA
+// Jenkinsfile
 String credentialsId = 'awsCredentials'
 
 try {
